@@ -1,0 +1,41 @@
+{
+  "name": "custom-lodash",
+  "version": "1.0.0",
+  "description": "library custom lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkulichNV/custom-lodash.git"
+  },
+  "keywords": [
+    "chunk",
+    "compact",
+    "drop",
+    "dropWhile",
+    "take",
+    "filter",
+    "find",
+    "includes",
+    "map",
+    "zip",
+    "merge",
+    "omit",
+    "omitBy",
+    "pick",
+    "pickBy",
+    "toPairs"
+  ],
+  "author": "akulichnv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkulichNV/custom-lodash/issues"
+  },
+  "homepage": "https://github.com/AkulichNV/custom-lodash#readme",
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "jest": "^28.1.3"
+  }
+}
